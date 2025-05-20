@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechSolutions</title>
+
+</head>
+<body>
+    <header><h1><strong style="color: rgb(38, 0, 255);">TechSolutions</strong></h1></header>
+    <br>
+    <h2>Quem Nós Somos?</h2>
+    <p><h3>Nós somos a TechSolutions, uma startup inovadora focada em soluções tecnológicas para pequenas e médias empresas aqui em Salvador cuja ideia é fornecer oportunidades a estudantes do ramo da tecnologia e ao mesmo tempo colocá-los em ação para auxiliar as empresas. </h3>
+        <img src="OIP.jpeg" width="300" height="200">
+        <h2>Nossos Focos</h2>
+<ol>
+    <h3><li>Inovações Tecnológicas Úteis para Empresas</li></h3>
+    <h3><li>Estágio Para Recém Formados</li></h3>
+    <h3><li>Automação Para Comércios</li></h3>
+</ol>
+    <h2>Nossa Equipe:</h2>
+<ol>
+    <h3><li>Mathias: Ceo e PO</li></h3>
+    <h3><li>Nascimento: Designer e Gerente de Projetos</li></h3>
+</ol>
+    <h2>Curioso? Venha nos Contatar!</h2>
+<ul>
+    <li><h3>Presencialmente Na Nossa <a href="https://www.google.com/maps">Sede</a></li></h3>
+    <li><h3>Ou Em Nosso <a href="https://www.instagram.com/">Instagram</a>
+    <li><h3>Email:emailzinhorandola@gmail.com</h3></li>
+    <li><h3>Contato:(71)96666-6666</h3></li>
+</ul>
+<br>
+
+
+
+
+
+</p>
+    
+</body>
+</html>
