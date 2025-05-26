@@ -11,8 +11,8 @@
     <header><h1><strong style="color: rgb(38, 0, 255);">TechSolutions</strong></h1></header>
     <br>
     <h2>Quem Nós Somos?</h2>
-    <p><h3>Nós somos a TechSolutions, uma startup inovadora focada em soluções tecnológicas para pequenas e médias empresas aqui em Salvador cuja ideia é fornecer oportunidades a estudantes do ramo da tecnologia e ao mesmo tempo colocá-los em ação para auxiliar as empresas. </h3>
-        <img src="OIP.jpeg" width="300" height="200">
+    <p><h3>Nós somos a TechSolutions, uma startup inovadora focada em soluções tecnológicas para pequenas e médias empresas aqui em Salvador. Para alem da motivacao economica nos buscamos oferecer oportunidades para novos profissionais que acabarm de se formar,entao parte do nosso corpo trabalhista sao estagiarios da area de TI e jovens em seu primeiro emprego. </h3>
+        <img <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbbGUIlb_dnCfUXqZkoioRnVne9I0LOg8Wg&s" width="300" height="200">
         <h2>Nossos Focos</h2>
 <ol>
     <h3><li>Inovações Tecnológicas Úteis para Empresas</li></h3>
@@ -22,7 +22,7 @@
     <h2>Nossa Equipe:</h2>
 <ol>
     <h3><li>Mathias: Ceo e PO</li></h3>
-    <h3><li>Nascimento: Designer e Gerente de Projetos</li></h3>
+    <h3><li>Vander: Designer e Gerente de Projetos</li></h3>
 </ol>
     <h2>Curioso? Venha nos Contatar!</h2>
 <ul>
