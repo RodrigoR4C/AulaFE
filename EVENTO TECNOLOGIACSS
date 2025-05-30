@@ -1,0 +1,118 @@
+
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: antiquewhite;
+  color: azul-escuro;
+  margin: 0;
+  padding: 15px;
+}
+
+
+
+
+
+header {
+  text-align: center;
+  background-color: azul-escuro;
+  color: maroon;
+  padding: 30px 10px;
+  margin-bottom: 25px;
+  border-radius: 0 0 12px 12px;
+}
+
+h1 {
+  margin-bottom: 5px;
+}
+
+main {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+section {
+  background-color: vermelho;
+  border-radius: 10px;
+  padding: 20px 25px;
+  margin-bottom: 25px;
+  box-shadow: 0 3px 7px rgba(90, 42, 131, 0.15);
+}
+
+.info-evento ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.info-evento li {
+  margin-bottom: 8px;
+  font-size: 16px;
+}
+
+.palestrantes article {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 20px;
+}
+
+.palestrantes img {
+  border-radius: 50%;
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border: 3px solid var(--lavanda);
+}
+
+form label, form legend {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+input[type="text"],
+input[type="email"] {
+  width: 100%;
+  padding: 8px 10px;
+  margin-top: 6px;
+  border-radius: 5px;
+  border: 1.8px solid lavanda;
+  box-sizing: border-box;
+  font-size: 15px;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+button {
+  background-color: indigo;
+  color: whitesmoke;
+  padding: 12px 26px;
+  border: none;
+  border-radius: 8px;
+  font-size: 17px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: bisque;
+}
+
+fieldset {
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+@media (max-width: 600px) {
+  .palestrantes article {
+    flex-direction: column;
+    text-align: center;
+  }
+  .palestrantes img {
+    margin-bottom: 12px;
+  }
+}
+
